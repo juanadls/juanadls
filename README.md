@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanadls
-- 👀 I’m interested in mobile and web development.
-- 🌱 I’m currently learning web and mobile development.
+- 👀 I’m interested in mobile development.
+- 🌱 I’m currently learning mobile development.
 - 💞️ I’m looking to collaborate on awesome projects.
 - 📫 How to reach me ...
 
