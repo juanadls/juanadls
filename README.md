@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @juanadls
-- 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning mobile development.
+- 👀 I’m interested in mobile development and natural language processing.
+- 🌱 I’m currently workings as a Flutter developer.
 - 💞️ I’m looking to collaborate on awesome projects.
-- 📫 How to reach me ...
+- 📫 Reach me on LinkedIn.
 
 <!---
 juanadls/juanadls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
